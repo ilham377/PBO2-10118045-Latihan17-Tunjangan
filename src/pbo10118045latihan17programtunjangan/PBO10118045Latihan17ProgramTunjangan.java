@@ -41,7 +41,7 @@ public class PBO10118045Latihan17ProgramTunjangan {
         System.out.println("Gaji Pokok\t\t: Rp. " +gaji);
         System.out.println("Tunjangan\t\t: Rp. " +tunj);
         System.out.println("Total Gaji\t\t: Rp. " +tot);
-        System.out.println("Developed by : Rizki Adam Kurniawan");
+        System.out.println("Developed by : Muhammad Ilham Apriyadi");
                 
                 
     }
